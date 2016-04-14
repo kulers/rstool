@@ -1,1 +1,3 @@
-Added prayer and special attack!
+*Added prayer
+*Added Special attack
+*Fixed Canvas flickering
