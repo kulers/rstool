@@ -1,3 +1,4 @@
+*Added Save/Load function
 *Added prayer
 *Added Special attack
 *Fixed Canvas flickering
